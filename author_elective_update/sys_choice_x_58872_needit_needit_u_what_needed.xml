@@ -42,7 +42,7 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Facilities 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
@@ -52,9 +52,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>76408bc0db53001064e7e04a489619b4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-26 14:22:40</sys_updated_on>
+            <sys_updated_on>2020-02-26 14:59:07</sys_updated_on>
             <value>facilities1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -62,7 +62,7 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Facilities 1</label>
+            <label>Facilities 2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
@@ -71,9 +71,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>32408bc0db53001064e7e04a489619b6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-26 14:22:40</sys_updated_on>
+            <sys_updated_on>2020-02-26 14:58:59</sys_updated_on>
             <value>facilities2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
